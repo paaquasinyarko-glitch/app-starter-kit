@@ -1,9 +1,9 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 Accounting Tutor
 ```
 ⬆️ (Replace above with your app's name)
 ```
 
-Description of the app ...
+This a machine learning app for teaching and learning.
 
 ## Demo App
 
